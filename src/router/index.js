@@ -3,11 +3,7 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 const routes = [
-  {
-    path: '/',
-    name: 'app',
-    component: App
-  }
+ 
 ]
 
 const router = new VueRouter({
